@@ -21,3 +21,5 @@ requests==2.31.0
 # Production Server
 gunicorn==21.2.0
 Flask-Migrate==4.0.7
+Flask-WTF==1.2.1
+
